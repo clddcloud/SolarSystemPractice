@@ -15,5 +15,9 @@ public class SolarSystem {
         Planet1 zoro=new Planet1();
         zoro.color="pink";
         zoro.radius="1231132miles";
+
+        Planet2 Dros=new Planet2();
+        Dros.radius="1212312miles";
+        Dros.color="black";
     }
 }
