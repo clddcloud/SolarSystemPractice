@@ -11,5 +11,9 @@ public class SolarSystem {
         Xros.temp="21312kj";
         Xros.color="green";
         Xros.radius="2312321miles";
+
+        Planet1 zoro=new Planet1();
+        zoro.color="pink";
+        zoro.radius="1231132miles";
     }
 }
